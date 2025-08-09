@@ -1,0 +1,11 @@
+# Cómo Contribuir  
+
+¡Gracias por tu interés en contribuir! Aquí las pautas:  
+
+## 📌 Primeros Pasos  
+- Asegúrate de tener Git instalado.  
+- Haz un *fork* del repositorio y clónalo localmente:  
+  ```bash
+  git clone https://github.com/tu-usuario/tu-repo.git
+  git checkout -b mi-feature
+  git commit -m "Descripción clara de los cambios"
